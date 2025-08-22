@@ -1,6 +1,6 @@
 #  Music Reactive LEDs with STM32
 
-![Demo.webm](https://github.com/user-attachments/assets/02b1ffe7-f085-4477-8d24-55bd79a0ec5a)
+![Demo.webm](https://github.com/user-attachments/assets/0db1bb5b-0309-47c5-933b-3da405310fc0)
 
 ## Hardware Setup
 
