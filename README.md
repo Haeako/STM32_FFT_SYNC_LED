@@ -2,6 +2,9 @@
 
 ![Demo](asset/Demo.gif)
 
+## Two modes:
+Rainbow (init)
+FFT_mode
 ## Hardware Setup
 
 * **STM32F4-DISCO1** board
