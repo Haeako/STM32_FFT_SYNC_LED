@@ -1,10 +1,11 @@
+<div align="center">
 #  Music Reactive LEDs with STM32
-
+</div>
 ![Demo](asset/Demo.gif)
 
 ## Two modes:
-Rainbow (init)
-FFT_mode
+- Rainbow (init)
+- FFT_mode
 ## Hardware Setup
 
 * **STM32F4-DISCO1** board
