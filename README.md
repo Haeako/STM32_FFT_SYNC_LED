@@ -1,6 +1,7 @@
 <div align="center">
-#  Music Reactive LEDs with STM32
+# Music Reactive LEDs with STM32
 </div>
+
 ![Demo](asset/Demo.gif)
 
 ## Two modes:
